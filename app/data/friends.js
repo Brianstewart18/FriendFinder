@@ -2,8 +2,8 @@
 //initialize starting with 'dummy' data
 
 var friendArray = [{
-        name: "Drax - The destroyer",
-        photo: "https://vignette3.wikia.nocookie.net/marvelcrossroads/images/8/8c/Drax_the_Destroyer_%28Earth-014%29.png/revision/latest?cb=20151115172248",
+        name: "Darth Vader",
+        photo: "https://www.sideshowtoy.com/wp-content/uploads/2014/07/star-wars-darth-vader-life-size-feature-400184.jpg",
         scores: [
             "5",
             "1",
@@ -17,8 +17,8 @@ var friendArray = [{
             "1"
         ]
     }, {
-        name: "Star Lord",
-        photo: "https://www.sideshowtoy.com/wp-content/uploads/2014/07/902219-product-silo.png",
+        name: "Emporer Palpatine",
+        photo: "https://starwarsblog.starwars.com/wp-content/uploads/2014/12/Palpatine-1536x864-261271428363.jpg",
         scores: [
             "4",
             "2",
@@ -35,8 +35,8 @@ var friendArray = [{
     }, {
 
 
-        name: "Baby Groot",
-        photo: "https://vignette2.wikia.nocookie.net/disney/images/0/0b/GOTG2_-_Groot.png/revision/latest/scale-to-width-down/515?cb=20170409114426",
+        name: "Count Doku",
+        photo: "https://i.pinimg.com/originals/a5/0c/80/a50c80492864acefd6c294929d293bc5.jpg",
         scores: [
             "4",
             "2",
@@ -53,8 +53,8 @@ var friendArray = [{
     }, {
 
 
-        name: "Gamora",
-        photo: "http://www.findurfuture.com/wp-content/uploads/2017/01/Gamora-Costume.jpg",
+        name: "Darth Maul",
+        photo: "https://starwarsblog.starwars.com/wp-content/uploads/2015/07/EP1_IA_72118-copy-1536x864-433723767381.jpg",
         scores: [
             "4",
             "2",
