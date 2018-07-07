@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Brianstewart18/FriendFinder/issues"
   },
-  "homepage": "https://github.com/Brianstewart18/FriendFinder#readme",
+  "homepage": "https://github.com/Brianstewart18/FriendFinder/app/public/home.html",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
